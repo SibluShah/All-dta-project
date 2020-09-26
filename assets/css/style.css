@@ -1,0 +1,17 @@
+.wrap{
+	width: 500px;
+	height: 600px;
+	margin: 50px auto 50px;
+}
+.wrap .card{
+	background-color:brown;
+}
+.wrap h1{
+	color:#fff;
+	text-align:center;
+}
+.wrap-table{
+	width: 1100px;
+	margin: 50px auto 50px;
+}
+

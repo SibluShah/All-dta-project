@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8475b400-6e50-4f81-81ca-e01d6bc6cc4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hpLQXGFRfhvDr4Rt4AqtCWPbcS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8475b400-6e50-4f81-81ca-e01d6bc6cc4a" name="Default Changelist" comment="" />
+      <created>1600703075144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600703075144</updated>
+      <workItem from="1600703077038" duration="7493000" />
+      <workItem from="1600748184325" duration="5804000" />
+      <workItem from="1600754485155" duration="2125000" />
+      <workItem from="1600759071524" duration="3694000" />
+      <workItem from="1600766102085" duration="638000" />
+      <workItem from="1600786092957" duration="10209000" />
+      <workItem from="1600831298119" duration="3494000" />
+      <workItem from="1600919279460" duration="2172000" />
+      <workItem from="1600934033931" duration="653000" />
+      <workItem from="1600940447314" duration="9026000" />
+      <workItem from="1600965725398" duration="3379000" />
+      <workItem from="1600999095317" duration="6626000" />
+      <workItem from="1601021658137" duration="3722000" />
+      <workItem from="1601039257936" duration="269000" />
+      <workItem from="1601053762984" duration="739000" />
+      <workItem from="1601054544011" duration="105000" />
+      <workItem from="1601085999919" duration="15680000" />
+      <workItem from="1601105822823" duration="348000" />
+      <workItem from="1601106222558" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="212" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600786613548">
+      <screen x="0" y="0" width="1093" height="584" />
+    </state>
+    <state x="212" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1093.584@0.0.1093.584" timestamp="1600786613548" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1601106451302">
+      <screen x="0" y="0" width="1093" height="584" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1093.584@0.0.1093.584" timestamp="1601106451302" />
+  </component>
+</project>
