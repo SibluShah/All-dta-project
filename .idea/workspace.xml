@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8475b400-6e50-4f81-81ca-e01d6bc6cc4a" name="Default Changelist" comment="" />
+    <list default="true" id="8475b400-6e50-4f81-81ca-e01d6bc6cc4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/students/02d0f105f19f76f9532179814ebf332cIMG-20200805-WA0014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/students/6b2fca44687e597e1af828fbe3609d6bIMG_20171021_171258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/students/787ef7ace739bb315379355448553045IMG_20171022_111417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/students/7ddf7829ccc2ad5c95300e1fcc78d112IMG_0367 - Copy - Copy - Copy - Copy.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/students/b58bb8a40a96e1f08b2a5fed8fc0089320140910_221710.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/students/b7c906234aa2b201e736ff263b445024IMG-20200805-WA0016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/students/b8d5b59551187d4245c0f7410e5f789fBad Boy - Saaho Hindi.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/students.php" beforeDir="false" afterPath="$PROJECT_DIR$/students.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +39,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hpLQXGFRfhvDr4Rt4AqtCWPbcS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,11 +87,28 @@
       <workItem from="1601085999919" duration="15680000" />
       <workItem from="1601105822823" duration="348000" />
       <workItem from="1601106222558" duration="229000" />
+      <workItem from="1601119424971" duration="206000" />
+      <workItem from="1601174733665" duration="4338000" />
+      <workItem from="1601179811193" duration="363000" />
+      <workItem from="1601180250951" duration="343000" />
+      <workItem from="1601180671578" duration="929000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="212" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600786613548">

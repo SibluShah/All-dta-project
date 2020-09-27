@@ -97,7 +97,7 @@ if (isset($_GET['inactive_id'])){
                                     <a class="btn btn-sm btn-danger" href="?inactive_id=<?php echo $student_db_data['id'];?>"><i class="far fa-thumbs-down"></i></a>;
                                 <?php endif; ?>
 								<a class="btn btn-sm btn-info" href="profile.php?student_id=<?php echo $student_db_data['id'];?>"><i class="fas fa-eye"></i></a>
-								<a class="btn btn-sm btn-warning" href="edit.php?edit_id=<?php echo $student_db_data['id'];?>"><i class="far fa-edit"></i></a>
+								<a class="btn btn-sm btn-warning" href="edit.php?edit_id=<?php echo $student_db_data['id'];?>&edit_photo=<?php echo $student_db_data['photo'];?>"><i class="far fa-edit"></i></a>
 								<a id="delete_btn" class="btn btn-sm btn-danger" href="?delete_id=<?php echo $student_db_data['id'];?>&photo=<?php echo $student_db_data['photo'];?>"><i class="fas fa-trash-alt"></i></a>
 							</td>
 						</tr>

@@ -4,6 +4,7 @@
 <?php
 if (isset($_POST["add"])){
     $edit_id=$_GET['edit_id'];
+    $edit_photo=$_GET['edit_photo'];
 
     $name=$_POST["name"];
     $email=$_POST["email"];
@@ -38,6 +39,7 @@ if (empty($name) || empty($email) || empty($cell) || empty($age) || empty($uname
 
             $photo_name = md5(time() . rand()) . $file_name;
 
+            unlink('photos/students/'.$edit_photo);
             move_uploaded_file($file_tmp_name, 'photos/students/' . $photo_name);
 
         }
